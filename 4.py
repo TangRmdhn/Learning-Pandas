@@ -21,9 +21,22 @@ Analisis loyalitas:
 
 kelompok = df.loc[df['Status Loyalitas'] == 'Loyal', ['Kelompok Usia','Status Loyalitas']].groupby('Kelompok Usia')['Status Loyalitas'].count()
 # Bagaimana cara mencari persentase?
+total_per_kelompok = df['Kelompok Usia'].value_counts()
+persentase_loyal = (kelompok / total_per_kelompok * 100).round(2)
+print("Persentase individu yang loyal di setiap kelompok usia:")
+print(persentase_loyal)
 
 puas = df.loc[df['Status Loyalitas'] == 'Loyal', ['Tingkat Pendidikan','Status Loyalitas']].groupby('Tingkat Pendidikan')['Status Loyalitas'].count()
-
+pendidikan_loyalitas = df.pivot_table(
+    index='Tingkat Pendidikan',
+    columns='Status Loyalitas',
+    values='Nama',
+    aggfunc='count',
+    fill_value=0
+)
+print("Hubungan antara tingkat pendidikan dan loyalitas:")
+print(pendidikan_loyalitas)
+print(puas)
 '''
 Segmentasi berdasarkan pendapatan:
 1. Buat kategori pendapatan menjadi: "Rendah" (< 5.000), "Menengah" (5.000-10.000), dan "Tinggi" (> 10.000).
