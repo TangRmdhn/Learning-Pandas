@@ -1,0 +1,501 @@
+ID,Nama,Jenis Kelamin,Kelompok Usia,Pendapatan,Tingkat Pendidikan,Wilayah,Skor Kepuasan,Status Loyalitas,Catatan
+1,Individu-1,Perempuan,Remaja,10628.79,Diploma,Kalimantan,10,Loyal,Catatan-1
+2,Individu-2,Perempuan,Dewasa,15936.35,Magister,Sumatera,5,Loyal,
+3,Individu-3,Perempuan,Remaja,11621.1,Magister,Kalimantan,9,Tidak Loyal,Catatan-3
+4,Individu-4,Laki-Laki,Remaja,6713.73,Diploma,Jawa,7,Tidak Loyal,Catatan-4
+5,Individu-5,Perempuan,Lansia,5572.69,Sarjana,Sumatera,9,Tidak Loyal,Catatan-5
+6,Individu-6,Perempuan,Lansia,4104.24,Diploma,Sulawesi,3,Loyal,
+7,Individu-7,Laki-Laki,Lansia,2734.12,Sarjana,Papua,7,Loyal,Catatan-7
+8,Individu-8,Perempuan,Dewasa,18998.96,Magister,Kalimantan,2,Loyal,Catatan-8
+9,Individu-9,Perempuan,Dewasa,17570.0,Diploma,Kalimantan,8,Loyal,Catatan-9
+10,Individu-10,Laki-Laki,Dewasa,11764.41,Diploma,Jawa,8,Tidak Loyal,Catatan-10
+11,Individu-11,Laki-Laki,Lansia,19174.88,Doktor,Kalimantan,9,Tidak Loyal,
+12,Individu-12,Laki-Laki,Remaja,17136.65,Diploma,Jawa,9,Loyal,Catatan-12
+13,Individu-13,Perempuan,Dewasa,2095.98,Diploma,Sulawesi,8,Tidak Loyal,Catatan-13
+14,Individu-14,Perempuan,Lansia,17679.42,Magister,Sulawesi,8,Loyal,Catatan-14
+15,Individu-15,Laki-Laki,Remaja,7163.07,Diploma,Papua,9,Tidak Loyal,Catatan-15
+16,Individu-16,Perempuan,Lansia,8832.97,Diploma,Papua,10,Loyal,Catatan-16
+17,Individu-17,Perempuan,Dewasa,6796.41,Magister,Jawa,3,Tidak Loyal,Catatan-17
+18,Individu-18,Laki-Laki,Remaja,15239.31,Doktor,Kalimantan,1,Tidak Loyal,Catatan-18
+19,Individu-19,Perempuan,Lansia,17373.09,Magister,Papua,8,Loyal,Catatan-19
+20,Individu-20,Laki-Laki,Lansia,18727.34,SMA,Sulawesi,3,Tidak Loyal,Catatan-20
+21,Individu-21,Laki-Laki,Remaja,7970.01,SMA,Kalimantan,9,Loyal,Catatan-21
+22,Individu-22,Laki-Laki,Remaja,6389.11,Doktor,Sulawesi,10,Tidak Loyal,Catatan-22
+23,Individu-23,Perempuan,Dewasa,8627.88,Doktor,Jawa,7,Tidak Loyal,Catatan-23
+24,Individu-24,Laki-Laki,Remaja,8757.65,Diploma,Sumatera,4,Tidak Loyal,Catatan-24
+25,Individu-25,Laki-Laki,Remaja,7033.69,Doktor,Jawa,6,Loyal,Catatan-25
+26,Individu-26,Perempuan,Dewasa,10556.37,Diploma,Jawa,1,Tidak Loyal,
+27,Individu-27,Laki-Laki,Dewasa,12414.83,SMA,Kalimantan,10,Tidak Loyal,Catatan-27
+28,Individu-28,Laki-Laki,Remaja,15521.54,Doktor,Kalimantan,8,Loyal,Catatan-28
+29,Individu-29,Laki-Laki,Lansia,7275.77,SMA,Papua,10,Loyal,Catatan-29
+30,Individu-30,Laki-Laki,Lansia,19593.75,SMA,Sumatera,8,Loyal,Catatan-30
+31,Individu-31,Laki-Laki,Lansia,6228.76,SMA,Kalimantan,9,Loyal,Catatan-31
+32,Individu-32,Laki-Laki,Lansia,18868.14,SMA,Papua,5,Loyal,
+33,Individu-33,Perempuan,Lansia,17438.85,Diploma,Jawa,4,Loyal,
+34,Individu-34,Perempuan,Remaja,7542.94,SMA,Kalimantan,8,Loyal,
+35,Individu-35,Perempuan,Dewasa,13572.26,Doktor,Papua,8,Tidak Loyal,Catatan-35
+36,Individu-36,Laki-Laki,Remaja,12980.16,Doktor,Jawa,10,Tidak Loyal,Catatan-36
+37,Individu-37,Perempuan,Lansia,13774.81,Diploma,Papua,2,Loyal,
+38,Individu-38,Perempuan,Dewasa,18990.79,Diploma,Sulawesi,9,Loyal,
+39,Individu-39,Perempuan,Remaja,18104.07,Magister,Papua,10,Loyal,Catatan-39
+40,Individu-40,Perempuan,Dewasa,8145.96,Sarjana,Jawa,5,Loyal,Catatan-40
+41,Individu-41,Laki-Laki,Lansia,2682.31,Sarjana,Sumatera,4,Loyal,Catatan-41
+42,Individu-42,Laki-Laki,Dewasa,8089.95,Sarjana,Papua,1,Tidak Loyal,Catatan-42
+43,Individu-43,Perempuan,Remaja,10611.25,SMA,Kalimantan,7,Tidak Loyal,
+44,Individu-44,Perempuan,Dewasa,2052.51,Sarjana,Papua,9,Tidak Loyal,
+45,Individu-45,Perempuan,Lansia,17273.14,Diploma,Jawa,6,Tidak Loyal,
+46,Individu-46,Laki-Laki,Remaja,13658.9,SMA,Papua,9,Loyal,Catatan-46
+47,Individu-47,Perempuan,Remaja,6487.05,Sarjana,Sumatera,1,Loyal,
+48,Individu-48,Laki-Laki,Remaja,6124.28,SMA,Papua,9,Tidak Loyal,
+49,Individu-49,Laki-Laki,Dewasa,17769.16,Sarjana,Jawa,10,Loyal,Catatan-49
+50,Individu-50,Laki-Laki,Lansia,10744.68,Doktor,Kalimantan,9,Loyal,
+51,Individu-51,Laki-Laki,Remaja,18155.15,Magister,Kalimantan,4,Loyal,
+52,Individu-52,Laki-Laki,Lansia,18656.88,Doktor,Jawa,10,Loyal,Catatan-52
+53,Individu-53,Perempuan,Lansia,16561.44,Sarjana,Sumatera,9,Loyal,Catatan-53
+54,Individu-54,Laki-Laki,Dewasa,5352.76,SMA,Papua,8,Tidak Loyal,
+55,Individu-55,Laki-Laki,Lansia,15548.34,Doktor,Jawa,1,Tidak Loyal,Catatan-55
+56,Individu-56,Laki-Laki,Lansia,17209.42,Diploma,Kalimantan,10,Loyal,Catatan-56
+57,Individu-57,Laki-Laki,Lansia,18972.35,Sarjana,Kalimantan,3,Tidak Loyal,
+58,Individu-58,Laki-Laki,Remaja,9306.81,Magister,Jawa,8,Tidak Loyal,Catatan-58
+59,Individu-59,Perempuan,Dewasa,7961.32,Diploma,Papua,10,Tidak Loyal,
+60,Individu-60,Laki-Laki,Lansia,11788.51,Diploma,Papua,10,Tidak Loyal,
+61,Individu-61,Laki-Laki,Dewasa,5590.87,Diploma,Papua,9,Tidak Loyal,Catatan-61
+62,Individu-62,Laki-Laki,Lansia,11928.0,Sarjana,Sumatera,1,Tidak Loyal,Catatan-62
+63,Individu-63,Laki-Laki,Remaja,17239.94,Magister,Sumatera,1,Loyal,Catatan-63
+64,Individu-64,Laki-Laki,Remaja,11692.19,Diploma,Sulawesi,5,Loyal,Catatan-64
+65,Individu-65,Perempuan,Remaja,19800.03,Doktor,Kalimantan,3,Tidak Loyal,Catatan-65
+66,Individu-66,Laki-Laki,Dewasa,5022.25,Magister,Sumatera,3,Loyal,Catatan-66
+67,Individu-67,Laki-Laki,Dewasa,9581.41,Doktor,Papua,6,Tidak Loyal,Catatan-67
+68,Individu-68,Laki-Laki,Dewasa,6460.75,Sarjana,Sumatera,1,Loyal,Catatan-68
+69,Individu-69,Laki-Laki,Remaja,4194.36,Magister,Jawa,3,Loyal,Catatan-69
+70,Individu-70,Laki-Laki,Remaja,19357.0,Doktor,Papua,2,Tidak Loyal,Catatan-70
+71,Individu-71,Laki-Laki,Dewasa,11224.24,SMA,Sulawesi,1,Loyal,Catatan-71
+72,Individu-72,Laki-Laki,Lansia,6934.4,Diploma,Kalimantan,9,Tidak Loyal,Catatan-72
+73,Individu-73,Laki-Laki,Lansia,6565.01,SMA,Jawa,7,Tidak Loyal,
+74,Individu-74,Laki-Laki,Dewasa,9061.27,Diploma,Sumatera,10,Tidak Loyal,Catatan-74
+75,Individu-75,Perempuan,Lansia,6110.18,Sarjana,Jawa,6,Loyal,Catatan-75
+76,Individu-76,Laki-Laki,Remaja,2135.43,Doktor,Sumatera,9,Tidak Loyal,Catatan-76
+77,Individu-77,Laki-Laki,Remaja,4081.47,Sarjana,Kalimantan,1,Loyal,Catatan-77
+78,Individu-78,Laki-Laki,Remaja,17246.52,Diploma,Sumatera,1,Tidak Loyal,Catatan-78
+79,Individu-79,Perempuan,Lansia,19260.03,SMA,Jawa,6,Loyal,Catatan-79
+80,Individu-80,Perempuan,Lansia,5799.28,Doktor,Kalimantan,8,Loyal,Catatan-80
+81,Individu-81,Perempuan,Lansia,7929.36,Diploma,Sulawesi,5,Loyal,
+82,Individu-82,Laki-Laki,Lansia,18256.45,Doktor,Papua,8,Loyal,Catatan-82
+83,Individu-83,Laki-Laki,Lansia,19880.2,Diploma,Jawa,9,Tidak Loyal,Catatan-83
+84,Individu-84,Laki-Laki,Lansia,5283.52,Magister,Papua,8,Loyal,Catatan-84
+85,Individu-85,Laki-Laki,Lansia,5615.35,Diploma,Papua,3,Tidak Loyal,
+86,Individu-86,Perempuan,Lansia,11135.38,Magister,Sulawesi,7,Loyal,Catatan-86
+87,Individu-87,Perempuan,Dewasa,13135.8,Sarjana,Sulawesi,8,Tidak Loyal,Catatan-87
+88,Individu-88,Laki-Laki,Remaja,19873.78,Sarjana,Kalimantan,7,Tidak Loyal,
+89,Individu-89,Laki-Laki,Remaja,19818.17,Diploma,Sumatera,5,Tidak Loyal,Catatan-89
+90,Individu-90,Perempuan,Remaja,3603.74,Doktor,Sumatera,4,Tidak Loyal,
+91,Individu-91,Perempuan,Remaja,3336.67,Magister,Jawa,8,Tidak Loyal,
+92,Individu-92,Laki-Laki,Dewasa,7152.27,Diploma,Papua,6,Loyal,Catatan-92
+93,Individu-93,Perempuan,Remaja,12994.61,Sarjana,Sumatera,3,Tidak Loyal,Catatan-93
+94,Individu-94,Perempuan,Lansia,16821.32,Magister,Kalimantan,7,Tidak Loyal,
+95,Individu-95,Perempuan,Dewasa,9403.44,Diploma,Papua,5,Tidak Loyal,
+96,Individu-96,Perempuan,Dewasa,5726.69,Sarjana,Papua,1,Loyal,
+97,Individu-97,Laki-Laki,Remaja,4505.33,SMA,Papua,1,Loyal,
+98,Individu-98,Laki-Laki,Lansia,7053.36,Sarjana,Kalimantan,6,Tidak Loyal,Catatan-98
+99,Individu-99,Laki-Laki,Dewasa,13363.81,Magister,Papua,8,Tidak Loyal,Catatan-99
+100,Individu-100,Laki-Laki,Remaja,15790.06,SMA,Sumatera,4,Loyal,Catatan-100
+101,Individu-101,Perempuan,Remaja,15861.77,Diploma,Kalimantan,8,Tidak Loyal,Catatan-101
+102,Individu-102,Laki-Laki,Dewasa,4778.5,Sarjana,Jawa,8,Tidak Loyal,Catatan-102
+103,Individu-103,Perempuan,Remaja,8641.14,Sarjana,Jawa,10,Loyal,
+104,Individu-104,Perempuan,Remaja,18057.89,SMA,Sulawesi,9,Loyal,Catatan-104
+105,Individu-105,Laki-Laki,Remaja,12565.8,Magister,Sulawesi,2,Loyal,
+106,Individu-106,Laki-Laki,Lansia,15592.8,Magister,Sumatera,1,Tidak Loyal,Catatan-106
+107,Individu-107,Perempuan,Remaja,3963.25,Sarjana,Jawa,9,Loyal,Catatan-107
+108,Individu-108,Perempuan,Dewasa,5837.12,SMA,Kalimantan,4,Loyal,Catatan-108
+109,Individu-109,Laki-Laki,Dewasa,17235.23,Magister,Sumatera,4,Loyal,Catatan-109
+110,Individu-110,Laki-Laki,Lansia,6462.94,Doktor,Jawa,3,Tidak Loyal,Catatan-110
+111,Individu-111,Laki-Laki,Dewasa,18029.94,Diploma,Jawa,7,Tidak Loyal,Catatan-111
+112,Individu-112,Laki-Laki,Dewasa,5566.64,SMA,Kalimantan,10,Tidak Loyal,Catatan-112
+113,Individu-113,Perempuan,Remaja,12454.3,Sarjana,Sulawesi,5,Tidak Loyal,
+114,Individu-114,Laki-Laki,Lansia,14730.22,Doktor,Sumatera,10,Loyal,
+115,Individu-115,Laki-Laki,Remaja,2592.89,Sarjana,Jawa,9,Loyal,Catatan-115
+116,Individu-116,Perempuan,Lansia,18150.01,Sarjana,Papua,10,Tidak Loyal,Catatan-116
+117,Individu-117,Perempuan,Dewasa,13170.55,SMA,Sulawesi,9,Loyal,Catatan-117
+118,Individu-118,Perempuan,Remaja,13369.99,Doktor,Papua,5,Loyal,
+119,Individu-119,Perempuan,Remaja,11871.78,Sarjana,Papua,3,Loyal,
+120,Individu-120,Perempuan,Dewasa,17126.46,Doktor,Papua,8,Loyal,Catatan-120
+121,Individu-121,Perempuan,Dewasa,6387.92,SMA,Sulawesi,9,Loyal,Catatan-121
+122,Individu-122,Perempuan,Remaja,9879.43,SMA,Jawa,10,Tidak Loyal,
+123,Individu-123,Laki-Laki,Remaja,14968.34,SMA,Jawa,7,Tidak Loyal,Catatan-123
+124,Individu-124,Perempuan,Remaja,13615.45,SMA,Kalimantan,2,Loyal,Catatan-124
+125,Individu-125,Laki-Laki,Remaja,5266.96,Magister,Jawa,10,Tidak Loyal,Catatan-125
+126,Individu-126,Laki-Laki,Dewasa,3007.27,Diploma,Kalimantan,1,Loyal,
+127,Individu-127,Perempuan,Dewasa,10735.29,Diploma,Kalimantan,5,Loyal,Catatan-127
+128,Individu-128,Laki-Laki,Dewasa,8436.48,SMA,Papua,7,Loyal,
+129,Individu-129,Laki-Laki,Lansia,6599.81,SMA,Jawa,3,Loyal,
+130,Individu-130,Laki-Laki,Lansia,5217.2,Doktor,Papua,4,Tidak Loyal,
+131,Individu-131,Laki-Laki,Remaja,11826.72,Doktor,Kalimantan,5,Tidak Loyal,Catatan-131
+132,Individu-132,Perempuan,Dewasa,10937.79,SMA,Sulawesi,5,Tidak Loyal,Catatan-132
+133,Individu-133,Perempuan,Remaja,4555.98,Diploma,Kalimantan,9,Loyal,Catatan-133
+134,Individu-134,Laki-Laki,Dewasa,12046.7,Magister,Papua,5,Loyal,Catatan-134
+135,Individu-135,Perempuan,Remaja,17248.89,Magister,Jawa,9,Loyal,Catatan-135
+136,Individu-136,Laki-Laki,Lansia,4394.06,SMA,Kalimantan,5,Tidak Loyal,Catatan-136
+137,Individu-137,Laki-Laki,Remaja,18569.6,Sarjana,Sulawesi,7,Loyal,
+138,Individu-138,Laki-Laki,Dewasa,15735.12,Sarjana,Kalimantan,7,Tidak Loyal,
+139,Individu-139,Perempuan,Dewasa,19828.41,Magister,Sumatera,4,Tidak Loyal,Catatan-139
+140,Individu-140,Laki-Laki,Remaja,18144.43,Diploma,Papua,1,Loyal,
+141,Individu-141,Perempuan,Remaja,19032.59,Sarjana,Sumatera,8,Loyal,Catatan-141
+142,Individu-142,Laki-Laki,Remaja,17755.07,Sarjana,Jawa,3,Tidak Loyal,Catatan-142
+143,Individu-143,Perempuan,Lansia,2315.56,Sarjana,Kalimantan,5,Tidak Loyal,Catatan-143
+144,Individu-144,Perempuan,Remaja,3928.17,Doktor,Papua,9,Tidak Loyal,Catatan-144
+145,Individu-145,Perempuan,Dewasa,9749.71,Sarjana,Jawa,6,Tidak Loyal,Catatan-145
+146,Individu-146,Perempuan,Dewasa,3547.13,Sarjana,Sulawesi,4,Tidak Loyal,Catatan-146
+147,Individu-147,Laki-Laki,Remaja,4023.18,Doktor,Sulawesi,2,Tidak Loyal,Catatan-147
+148,Individu-148,Perempuan,Remaja,5244.02,SMA,Sumatera,10,Loyal,Catatan-148
+149,Individu-149,Perempuan,Remaja,8505.23,Doktor,Kalimantan,3,Loyal,Catatan-149
+150,Individu-150,Laki-Laki,Remaja,12381.18,Sarjana,Sulawesi,4,Tidak Loyal,
+151,Individu-151,Perempuan,Dewasa,17913.46,SMA,Jawa,6,Loyal,
+152,Individu-152,Laki-Laki,Lansia,3211.19,Magister,Sulawesi,10,Tidak Loyal,Catatan-152
+153,Individu-153,Perempuan,Lansia,11551.89,Sarjana,Sumatera,8,Loyal,Catatan-153
+154,Individu-154,Perempuan,Remaja,18004.62,Doktor,Jawa,6,Loyal,
+155,Individu-155,Perempuan,Remaja,12599.35,Diploma,Sulawesi,6,Tidak Loyal,Catatan-155
+156,Individu-156,Laki-Laki,Dewasa,4663.25,Doktor,Sulawesi,10,Loyal,Catatan-156
+157,Individu-157,Perempuan,Lansia,18102.75,Sarjana,Papua,9,Tidak Loyal,Catatan-157
+158,Individu-158,Laki-Laki,Lansia,6792.45,Sarjana,Papua,2,Tidak Loyal,Catatan-158
+159,Individu-159,Perempuan,Dewasa,18909.71,Magister,Sumatera,4,Loyal,Catatan-159
+160,Individu-160,Laki-Laki,Remaja,11025.74,Doktor,Sulawesi,9,Loyal,
+161,Individu-161,Laki-Laki,Lansia,12337.84,SMA,Papua,5,Loyal,Catatan-161
+162,Individu-162,Laki-Laki,Dewasa,16642.45,Diploma,Kalimantan,5,Tidak Loyal,Catatan-162
+163,Individu-163,Perempuan,Dewasa,6559.24,Doktor,Sumatera,6,Tidak Loyal,
+164,Individu-164,Perempuan,Remaja,16951.51,Sarjana,Sulawesi,5,Tidak Loyal,
+165,Individu-165,Perempuan,Remaja,7769.5,SMA,Sumatera,4,Tidak Loyal,
+166,Individu-166,Laki-Laki,Lansia,10400.88,Doktor,Papua,9,Tidak Loyal,
+167,Individu-167,Laki-Laki,Lansia,14192.67,Doktor,Jawa,3,Tidak Loyal,
+168,Individu-168,Perempuan,Remaja,5804.71,Sarjana,Kalimantan,10,Loyal,Catatan-168
+169,Individu-169,Perempuan,Remaja,6271.23,SMA,Papua,6,Loyal,Catatan-169
+170,Individu-170,Laki-Laki,Dewasa,7587.83,Diploma,Sumatera,6,Tidak Loyal,
+171,Individu-171,Perempuan,Remaja,3213.73,Sarjana,Sumatera,1,Tidak Loyal,Catatan-171
+172,Individu-172,Perempuan,Remaja,15519.75,Sarjana,Kalimantan,7,Tidak Loyal,Catatan-172
+173,Individu-173,Perempuan,Dewasa,8755.21,Doktor,Sumatera,4,Tidak Loyal,
+174,Individu-174,Perempuan,Lansia,8318.8,SMA,Sulawesi,6,Tidak Loyal,Catatan-174
+175,Individu-175,Laki-Laki,Remaja,2008.62,Diploma,Sumatera,10,Tidak Loyal,Catatan-175
+176,Individu-176,Laki-Laki,Remaja,9167.65,Diploma,Sumatera,10,Loyal,Catatan-176
+177,Individu-177,Laki-Laki,Dewasa,13176.04,Magister,Sumatera,5,Tidak Loyal,
+178,Individu-178,Perempuan,Remaja,14057.87,Diploma,Kalimantan,2,Loyal,
+179,Individu-179,Laki-Laki,Remaja,15173.29,SMA,Kalimantan,3,Loyal,Catatan-179
+180,Individu-180,Laki-Laki,Remaja,3984.07,Sarjana,Papua,9,Tidak Loyal,Catatan-180
+181,Individu-181,Laki-Laki,Lansia,2489.75,Magister,Jawa,1,Loyal,
+182,Individu-182,Perempuan,Dewasa,4100.99,SMA,Jawa,5,Tidak Loyal,Catatan-182
+183,Individu-183,Laki-Laki,Dewasa,16004.01,Sarjana,Sumatera,7,Loyal,Catatan-183
+184,Individu-184,Perempuan,Remaja,7625.48,SMA,Kalimantan,2,Loyal,
+185,Individu-185,Perempuan,Remaja,19810.24,Diploma,Kalimantan,2,Loyal,Catatan-185
+186,Individu-186,Laki-Laki,Lansia,15667.1,Sarjana,Jawa,5,Loyal,
+187,Individu-187,Laki-Laki,Dewasa,3007.32,Diploma,Jawa,7,Loyal,
+188,Individu-188,Perempuan,Remaja,10165.63,Magister,Sulawesi,10,Loyal,Catatan-188
+189,Individu-189,Laki-Laki,Dewasa,3032.45,Magister,Sumatera,10,Loyal,
+190,Individu-190,Laki-Laki,Remaja,16345.85,Magister,Jawa,9,Loyal,
+191,Individu-191,Perempuan,Lansia,13860.67,Doktor,Sulawesi,7,Loyal,
+192,Individu-192,Laki-Laki,Remaja,5069.55,Sarjana,Sumatera,3,Tidak Loyal,Catatan-192
+193,Individu-193,Perempuan,Remaja,5769.05,Diploma,Sumatera,6,Loyal,Catatan-193
+194,Individu-194,Laki-Laki,Dewasa,10181.26,Magister,Sumatera,5,Loyal,Catatan-194
+195,Individu-195,Perempuan,Lansia,2199.17,Doktor,Sulawesi,6,Loyal,
+196,Individu-196,Laki-Laki,Remaja,18993.01,Doktor,Kalimantan,3,Loyal,
+197,Individu-197,Laki-Laki,Lansia,8402.17,Doktor,Kalimantan,1,Loyal,Catatan-197
+198,Individu-198,Laki-Laki,Dewasa,8147.79,Sarjana,Sumatera,6,Tidak Loyal,Catatan-198
+199,Individu-199,Laki-Laki,Lansia,12262.19,Doktor,Kalimantan,2,Loyal,Catatan-199
+200,Individu-200,Perempuan,Dewasa,3805.07,Magister,Kalimantan,9,Tidak Loyal,Catatan-200
+201,Individu-201,Laki-Laki,Dewasa,10152.76,Magister,Papua,5,Tidak Loyal,Catatan-201
+202,Individu-202,Perempuan,Remaja,12265.28,Diploma,Jawa,10,Tidak Loyal,
+203,Individu-203,Laki-Laki,Remaja,4572.34,SMA,Kalimantan,1,Loyal,
+204,Individu-204,Laki-Laki,Remaja,8158.87,Doktor,Sumatera,5,Loyal,Catatan-204
+205,Individu-205,Laki-Laki,Lansia,15738.01,Doktor,Jawa,10,Loyal,Catatan-205
+206,Individu-206,Laki-Laki,Dewasa,14662.33,Doktor,Sumatera,7,Tidak Loyal,Catatan-206
+207,Individu-207,Perempuan,Remaja,8602.74,Magister,Papua,8,Tidak Loyal,Catatan-207
+208,Individu-208,Laki-Laki,Dewasa,11605.12,SMA,Sumatera,5,Tidak Loyal,Catatan-208
+209,Individu-209,Laki-Laki,Remaja,3001.29,Sarjana,Kalimantan,8,Loyal,Catatan-209
+210,Individu-210,Laki-Laki,Lansia,9227.96,Diploma,Sumatera,6,Loyal,
+211,Individu-211,Perempuan,Lansia,4854.76,Diploma,Sumatera,9,Tidak Loyal,Catatan-211
+212,Individu-212,Perempuan,Dewasa,7084.77,Sarjana,Kalimantan,5,Tidak Loyal,Catatan-212
+213,Individu-213,Laki-Laki,Dewasa,15354.01,SMA,Papua,10,Loyal,Catatan-213
+214,Individu-214,Laki-Laki,Remaja,2409.44,Diploma,Sumatera,6,Tidak Loyal,
+215,Individu-215,Perempuan,Lansia,16767.84,Sarjana,Papua,10,Tidak Loyal,
+216,Individu-216,Laki-Laki,Lansia,8651.36,Sarjana,Sumatera,6,Loyal,Catatan-216
+217,Individu-217,Laki-Laki,Remaja,18540.52,Sarjana,Kalimantan,4,Tidak Loyal,Catatan-217
+218,Individu-218,Perempuan,Remaja,10829.77,Sarjana,Jawa,3,Loyal,Catatan-218
+219,Individu-219,Laki-Laki,Remaja,8148.5,Magister,Jawa,6,Loyal,Catatan-219
+220,Individu-220,Perempuan,Lansia,4098.51,SMA,Sumatera,4,Loyal,Catatan-220
+221,Individu-221,Laki-Laki,Remaja,18619.4,SMA,Sulawesi,3,Loyal,
+222,Individu-222,Laki-Laki,Lansia,17468.52,Magister,Papua,7,Loyal,Catatan-222
+223,Individu-223,Laki-Laki,Dewasa,2964.38,Magister,Sulawesi,5,Tidak Loyal,
+224,Individu-224,Perempuan,Lansia,5085.15,Sarjana,Kalimantan,10,Tidak Loyal,
+225,Individu-225,Laki-Laki,Lansia,12124.01,Sarjana,Papua,5,Loyal,
+226,Individu-226,Perempuan,Remaja,4928.33,Sarjana,Jawa,5,Tidak Loyal,
+227,Individu-227,Laki-Laki,Lansia,16005.51,Doktor,Sumatera,8,Tidak Loyal,
+228,Individu-228,Laki-Laki,Remaja,19407.36,SMA,Kalimantan,9,Loyal,Catatan-228
+229,Individu-229,Perempuan,Lansia,6784.57,Doktor,Papua,6,Loyal,Catatan-229
+230,Individu-230,Laki-Laki,Lansia,10800.1,Doktor,Sulawesi,4,Tidak Loyal,
+231,Individu-231,Laki-Laki,Dewasa,9530.39,Magister,Papua,5,Loyal,Catatan-231
+232,Individu-232,Perempuan,Remaja,2841.36,SMA,Sulawesi,1,Loyal,Catatan-232
+233,Individu-233,Laki-Laki,Dewasa,5605.6,Sarjana,Sulawesi,2,Loyal,
+234,Individu-234,Perempuan,Dewasa,3335.26,SMA,Sulawesi,8,Tidak Loyal,Catatan-234
+235,Individu-235,Perempuan,Lansia,3442.5,Diploma,Sumatera,5,Loyal,Catatan-235
+236,Individu-236,Laki-Laki,Dewasa,16214.16,Magister,Papua,9,Tidak Loyal,
+237,Individu-237,Laki-Laki,Remaja,7488.15,Sarjana,Sulawesi,3,Loyal,Catatan-237
+238,Individu-238,Perempuan,Dewasa,9077.19,Diploma,Sulawesi,5,Loyal,Catatan-238
+239,Individu-239,Perempuan,Remaja,16489.12,SMA,Kalimantan,5,Tidak Loyal,Catatan-239
+240,Individu-240,Perempuan,Lansia,9128.1,Doktor,Sumatera,2,Loyal,Catatan-240
+241,Individu-241,Laki-Laki,Dewasa,8300.0,Magister,Papua,7,Tidak Loyal,Catatan-241
+242,Individu-242,Laki-Laki,Lansia,12165.51,SMA,Sulawesi,4,Loyal,Catatan-242
+243,Individu-243,Laki-Laki,Remaja,17618.34,Magister,Jawa,9,Tidak Loyal,Catatan-243
+244,Individu-244,Perempuan,Lansia,10755.71,Sarjana,Kalimantan,5,Tidak Loyal,Catatan-244
+245,Individu-245,Perempuan,Dewasa,4920.61,SMA,Sulawesi,4,Loyal,
+246,Individu-246,Perempuan,Dewasa,8672.25,Diploma,Sumatera,5,Tidak Loyal,Catatan-246
+247,Individu-247,Laki-Laki,Dewasa,15193.14,SMA,Jawa,10,Loyal,
+248,Individu-248,Perempuan,Dewasa,19779.0,Magister,Papua,6,Loyal,Catatan-248
+249,Individu-249,Laki-Laki,Lansia,12755.95,Doktor,Jawa,7,Loyal,
+250,Individu-250,Laki-Laki,Dewasa,19845.77,Doktor,Jawa,10,Tidak Loyal,Catatan-250
+251,Individu-251,Laki-Laki,Dewasa,9933.74,Sarjana,Papua,7,Loyal,Catatan-251
+252,Individu-252,Laki-Laki,Dewasa,14173.4,Doktor,Jawa,4,Tidak Loyal,Catatan-252
+253,Individu-253,Laki-Laki,Dewasa,5206.83,Doktor,Sumatera,5,Loyal,Catatan-253
+254,Individu-254,Laki-Laki,Dewasa,15115.31,Diploma,Sulawesi,8,Tidak Loyal,Catatan-254
+255,Individu-255,Laki-Laki,Lansia,10970.58,Sarjana,Papua,3,Tidak Loyal,Catatan-255
+256,Individu-256,Laki-Laki,Remaja,3268.22,Sarjana,Jawa,2,Tidak Loyal,
+257,Individu-257,Perempuan,Lansia,19215.29,Doktor,Sulawesi,3,Loyal,Catatan-257
+258,Individu-258,Laki-Laki,Remaja,17707.16,Doktor,Kalimantan,2,Loyal,Catatan-258
+259,Individu-259,Laki-Laki,Lansia,5291.52,Diploma,Jawa,2,Loyal,Catatan-259
+260,Individu-260,Perempuan,Remaja,16487.55,Magister,Papua,5,Tidak Loyal,
+261,Individu-261,Perempuan,Remaja,16759.75,SMA,Sumatera,4,Tidak Loyal,
+262,Individu-262,Perempuan,Remaja,12074.33,Diploma,Papua,9,Loyal,
+263,Individu-263,Perempuan,Remaja,12252.87,Magister,Sumatera,8,Tidak Loyal,
+264,Individu-264,Laki-Laki,Dewasa,14067.41,Sarjana,Papua,6,Tidak Loyal,Catatan-264
+265,Individu-265,Laki-Laki,Lansia,3177.53,Diploma,Jawa,7,Tidak Loyal,Catatan-265
+266,Individu-266,Laki-Laki,Lansia,12844.67,Sarjana,Jawa,4,Loyal,
+267,Individu-267,Perempuan,Lansia,7968.87,Sarjana,Kalimantan,8,Loyal,Catatan-267
+268,Individu-268,Laki-Laki,Lansia,18955.59,Magister,Kalimantan,9,Tidak Loyal,
+269,Individu-269,Perempuan,Lansia,16081.9,SMA,Papua,5,Tidak Loyal,Catatan-269
+270,Individu-270,Laki-Laki,Dewasa,16786.91,Diploma,Kalimantan,5,Loyal,Catatan-270
+271,Individu-271,Perempuan,Dewasa,11092.17,SMA,Jawa,3,Loyal,Catatan-271
+272,Individu-272,Perempuan,Remaja,17364.62,Sarjana,Sumatera,3,Loyal,Catatan-272
+273,Individu-273,Perempuan,Lansia,4522.73,Diploma,Papua,2,Loyal,Catatan-273
+274,Individu-274,Perempuan,Lansia,14366.58,Doktor,Kalimantan,2,Tidak Loyal,Catatan-274
+275,Individu-275,Perempuan,Lansia,8385.69,Diploma,Kalimantan,2,Tidak Loyal,Catatan-275
+276,Individu-276,Perempuan,Dewasa,9826.33,Diploma,Sulawesi,9,Loyal,
+277,Individu-277,Laki-Laki,Lansia,17966.24,SMA,Papua,7,Loyal,Catatan-277
+278,Individu-278,Laki-Laki,Lansia,11860.64,Sarjana,Papua,10,Loyal,Catatan-278
+279,Individu-279,Perempuan,Remaja,11317.13,SMA,Papua,7,Loyal,Catatan-279
+280,Individu-280,Perempuan,Remaja,5158.95,Diploma,Papua,1,Loyal,Catatan-280
+281,Individu-281,Laki-Laki,Lansia,15075.92,Doktor,Kalimantan,1,Loyal,Catatan-281
+282,Individu-282,Laki-Laki,Dewasa,15387.14,Magister,Kalimantan,8,Loyal,Catatan-282
+283,Individu-283,Perempuan,Lansia,8581.66,Diploma,Kalimantan,3,Loyal,Catatan-283
+284,Individu-284,Perempuan,Dewasa,10832.56,SMA,Kalimantan,1,Loyal,Catatan-284
+285,Individu-285,Perempuan,Remaja,2328.74,SMA,Sumatera,5,Tidak Loyal,
+286,Individu-286,Perempuan,Remaja,8072.36,Sarjana,Papua,6,Tidak Loyal,
+287,Individu-287,Perempuan,Remaja,9744.2,Magister,Sumatera,7,Loyal,Catatan-287
+288,Individu-288,Perempuan,Dewasa,2844.01,Diploma,Kalimantan,10,Tidak Loyal,
+289,Individu-289,Perempuan,Lansia,17001.94,Magister,Kalimantan,8,Tidak Loyal,Catatan-289
+290,Individu-290,Perempuan,Remaja,15130.83,Sarjana,Jawa,8,Loyal,
+291,Individu-291,Laki-Laki,Lansia,18992.53,Doktor,Papua,8,Tidak Loyal,Catatan-291
+292,Individu-292,Laki-Laki,Lansia,17472.58,Sarjana,Papua,5,Loyal,Catatan-292
+293,Individu-293,Perempuan,Dewasa,13098.18,Magister,Sumatera,6,Loyal,Catatan-293
+294,Individu-294,Laki-Laki,Remaja,8221.94,Diploma,Sumatera,2,Tidak Loyal,Catatan-294
+295,Individu-295,Laki-Laki,Remaja,8053.34,Diploma,Sumatera,2,Tidak Loyal,Catatan-295
+296,Individu-296,Laki-Laki,Remaja,14603.16,Diploma,Sumatera,7,Tidak Loyal,
+297,Individu-297,Laki-Laki,Dewasa,14968.73,Magister,Jawa,4,Tidak Loyal,Catatan-297
+298,Individu-298,Perempuan,Lansia,14549.03,Magister,Jawa,6,Loyal,
+299,Individu-299,Perempuan,Remaja,8730.61,Diploma,Jawa,2,Loyal,Catatan-299
+300,Individu-300,Laki-Laki,Remaja,8914.62,Sarjana,Jawa,2,Tidak Loyal,Catatan-300
+301,Individu-301,Perempuan,Dewasa,19491.35,Diploma,Sulawesi,7,Tidak Loyal,
+302,Individu-302,Perempuan,Dewasa,3585.22,Diploma,Sulawesi,6,Loyal,
+303,Individu-303,Perempuan,Dewasa,19596.38,Sarjana,Papua,5,Loyal,Catatan-303
+304,Individu-304,Laki-Laki,Dewasa,16826.88,Sarjana,Sulawesi,3,Loyal,Catatan-304
+305,Individu-305,Laki-Laki,Remaja,3564.16,Diploma,Kalimantan,7,Tidak Loyal,
+306,Individu-306,Laki-Laki,Remaja,18014.17,Diploma,Jawa,9,Loyal,Catatan-306
+307,Individu-307,Perempuan,Lansia,5673.98,Magister,Kalimantan,1,Tidak Loyal,Catatan-307
+308,Individu-308,Perempuan,Remaja,2474.27,Sarjana,Sulawesi,6,Loyal,
+309,Individu-309,Laki-Laki,Remaja,5728.16,SMA,Jawa,1,Tidak Loyal,Catatan-309
+310,Individu-310,Laki-Laki,Dewasa,16165.04,Sarjana,Sulawesi,7,Tidak Loyal,Catatan-310
+311,Individu-311,Perempuan,Dewasa,12591.17,Sarjana,Sulawesi,9,Tidak Loyal,Catatan-311
+312,Individu-312,Perempuan,Lansia,13579.85,Doktor,Jawa,7,Tidak Loyal,
+313,Individu-313,Laki-Laki,Lansia,12018.04,Magister,Papua,3,Tidak Loyal,Catatan-313
+314,Individu-314,Perempuan,Dewasa,19441.03,SMA,Papua,4,Loyal,
+315,Individu-315,Laki-Laki,Dewasa,17289.53,Doktor,Sulawesi,9,Tidak Loyal,
+316,Individu-316,Perempuan,Lansia,14313.48,Sarjana,Sulawesi,3,Tidak Loyal,Catatan-316
+317,Individu-317,Perempuan,Remaja,15500.38,Diploma,Jawa,3,Loyal,Catatan-317
+318,Individu-318,Perempuan,Dewasa,12061.14,Doktor,Kalimantan,6,Loyal,Catatan-318
+319,Individu-319,Perempuan,Remaja,16333.51,SMA,Jawa,3,Loyal,
+320,Individu-320,Perempuan,Remaja,6549.02,Magister,Kalimantan,5,Tidak Loyal,Catatan-320
+321,Individu-321,Laki-Laki,Dewasa,4424.28,Sarjana,Jawa,3,Tidak Loyal,Catatan-321
+322,Individu-322,Laki-Laki,Lansia,2171.34,Sarjana,Sumatera,6,Tidak Loyal,Catatan-322
+323,Individu-323,Laki-Laki,Lansia,9954.66,Sarjana,Kalimantan,3,Loyal,
+324,Individu-324,Laki-Laki,Remaja,9853.15,Diploma,Kalimantan,8,Tidak Loyal,Catatan-324
+325,Individu-325,Laki-Laki,Dewasa,8479.74,Sarjana,Sumatera,8,Loyal,Catatan-325
+326,Individu-326,Perempuan,Dewasa,6289.68,Magister,Papua,1,Loyal,
+327,Individu-327,Perempuan,Remaja,6063.67,Sarjana,Papua,3,Tidak Loyal,Catatan-327
+328,Individu-328,Perempuan,Dewasa,4593.03,Doktor,Jawa,2,Tidak Loyal,
+329,Individu-329,Laki-Laki,Remaja,11345.16,Sarjana,Sumatera,8,Loyal,Catatan-329
+330,Individu-330,Laki-Laki,Lansia,4429.56,Sarjana,Jawa,2,Loyal,
+331,Individu-331,Perempuan,Dewasa,3699.06,Diploma,Papua,6,Tidak Loyal,Catatan-331
+332,Individu-332,Perempuan,Dewasa,17655.52,Magister,Jawa,6,Tidak Loyal,Catatan-332
+333,Individu-333,Laki-Laki,Dewasa,19830.45,SMA,Sumatera,9,Loyal,Catatan-333
+334,Individu-334,Perempuan,Dewasa,5847.38,Magister,Sumatera,2,Tidak Loyal,Catatan-334
+335,Individu-335,Perempuan,Dewasa,12392.54,Sarjana,Kalimantan,9,Tidak Loyal,Catatan-335
+336,Individu-336,Perempuan,Lansia,10065.48,Sarjana,Sumatera,8,Tidak Loyal,Catatan-336
+337,Individu-337,Perempuan,Lansia,17796.16,Doktor,Jawa,10,Loyal,Catatan-337
+338,Individu-338,Laki-Laki,Dewasa,12923.85,Diploma,Papua,7,Tidak Loyal,
+339,Individu-339,Laki-Laki,Remaja,6772.73,Magister,Sulawesi,1,Loyal,Catatan-339
+340,Individu-340,Perempuan,Remaja,16823.76,Sarjana,Papua,1,Loyal,Catatan-340
+341,Individu-341,Laki-Laki,Dewasa,4367.88,SMA,Kalimantan,9,Loyal,
+342,Individu-342,Perempuan,Lansia,9923.81,Diploma,Kalimantan,10,Tidak Loyal,
+343,Individu-343,Laki-Laki,Lansia,8241.23,Magister,Sumatera,7,Tidak Loyal,Catatan-343
+344,Individu-344,Laki-Laki,Lansia,3178.42,Sarjana,Sumatera,5,Loyal,Catatan-344
+345,Individu-345,Laki-Laki,Dewasa,10843.45,SMA,Sulawesi,4,Loyal,Catatan-345
+346,Individu-346,Laki-Laki,Remaja,11313.01,SMA,Papua,6,Tidak Loyal,
+347,Individu-347,Perempuan,Dewasa,9097.22,Doktor,Sulawesi,2,Loyal,Catatan-347
+348,Individu-348,Perempuan,Remaja,8840.35,Doktor,Sulawesi,9,Loyal,Catatan-348
+349,Individu-349,Perempuan,Dewasa,5741.44,Diploma,Papua,8,Tidak Loyal,Catatan-349
+350,Individu-350,Perempuan,Dewasa,8895.27,Doktor,Sulawesi,5,Loyal,
+351,Individu-351,Perempuan,Dewasa,19850.04,Doktor,Kalimantan,2,Loyal,Catatan-351
+352,Individu-352,Perempuan,Remaja,14568.17,Magister,Sumatera,7,Loyal,
+353,Individu-353,Perempuan,Remaja,2149.3,Doktor,Papua,10,Loyal,Catatan-353
+354,Individu-354,Perempuan,Dewasa,17448.95,SMA,Kalimantan,8,Loyal,Catatan-354
+355,Individu-355,Laki-Laki,Remaja,4539.72,Doktor,Papua,6,Tidak Loyal,
+356,Individu-356,Perempuan,Lansia,15606.95,Magister,Jawa,3,Tidak Loyal,
+357,Individu-357,Laki-Laki,Dewasa,17450.2,Magister,Sulawesi,3,Tidak Loyal,Catatan-357
+358,Individu-358,Perempuan,Lansia,5276.36,Magister,Sumatera,2,Tidak Loyal,
+359,Individu-359,Perempuan,Lansia,10898.28,Doktor,Sumatera,2,Tidak Loyal,Catatan-359
+360,Individu-360,Laki-Laki,Remaja,9657.6,Magister,Jawa,4,Loyal,Catatan-360
+361,Individu-361,Perempuan,Dewasa,3509.43,Doktor,Kalimantan,4,Tidak Loyal,Catatan-361
+362,Individu-362,Perempuan,Remaja,8785.77,SMA,Papua,3,Loyal,Catatan-362
+363,Individu-363,Perempuan,Dewasa,12884.97,Diploma,Kalimantan,7,Tidak Loyal,
+364,Individu-364,Perempuan,Lansia,13337.99,Diploma,Kalimantan,6,Tidak Loyal,Catatan-364
+365,Individu-365,Laki-Laki,Dewasa,18641.58,Diploma,Kalimantan,2,Tidak Loyal,Catatan-365
+366,Individu-366,Laki-Laki,Dewasa,4196.15,Sarjana,Sumatera,7,Loyal,Catatan-366
+367,Individu-367,Perempuan,Dewasa,3336.22,Magister,Jawa,8,Loyal,Catatan-367
+368,Individu-368,Laki-Laki,Dewasa,15248.55,Sarjana,Kalimantan,7,Tidak Loyal,Catatan-368
+369,Individu-369,Laki-Laki,Remaja,17042.31,Sarjana,Jawa,5,Loyal,Catatan-369
+370,Individu-370,Laki-Laki,Lansia,10672.89,Sarjana,Kalimantan,3,Tidak Loyal,Catatan-370
+371,Individu-371,Laki-Laki,Dewasa,7364.09,Doktor,Sumatera,6,Loyal,Catatan-371
+372,Individu-372,Perempuan,Remaja,6351.19,SMA,Jawa,6,Tidak Loyal,Catatan-372
+373,Individu-373,Laki-Laki,Lansia,8475.52,Magister,Papua,4,Tidak Loyal,Catatan-373
+374,Individu-374,Perempuan,Lansia,19511.17,SMA,Sumatera,1,Tidak Loyal,Catatan-374
+375,Individu-375,Laki-Laki,Dewasa,14820.85,SMA,Jawa,6,Loyal,Catatan-375
+376,Individu-376,Laki-Laki,Lansia,16953.69,Diploma,Sulawesi,9,Tidak Loyal,Catatan-376
+377,Individu-377,Perempuan,Remaja,7404.51,SMA,Sulawesi,6,Loyal,Catatan-377
+378,Individu-378,Laki-Laki,Remaja,13066.18,Doktor,Papua,4,Tidak Loyal,Catatan-378
+379,Individu-379,Laki-Laki,Remaja,14864.95,Sarjana,Papua,9,Tidak Loyal,Catatan-379
+380,Individu-380,Laki-Laki,Lansia,11100.19,SMA,Papua,6,Tidak Loyal,Catatan-380
+381,Individu-381,Laki-Laki,Lansia,16346.5,SMA,Jawa,8,Tidak Loyal,Catatan-381
+382,Individu-382,Laki-Laki,Remaja,3835.2,Sarjana,Kalimantan,1,Loyal,Catatan-382
+383,Individu-383,Perempuan,Lansia,18715.67,Diploma,Kalimantan,4,Tidak Loyal,Catatan-383
+384,Individu-384,Laki-Laki,Remaja,4584.05,Diploma,Jawa,2,Loyal,Catatan-384
+385,Individu-385,Perempuan,Dewasa,19495.55,Magister,Kalimantan,2,Tidak Loyal,Catatan-385
+386,Individu-386,Perempuan,Remaja,3128.48,SMA,Jawa,4,Loyal,Catatan-386
+387,Individu-387,Laki-Laki,Dewasa,14957.81,Doktor,Sumatera,2,Loyal,
+388,Individu-388,Laki-Laki,Remaja,17322.15,Magister,Papua,2,Loyal,Catatan-388
+389,Individu-389,Laki-Laki,Lansia,7243.18,Diploma,Kalimantan,2,Loyal,
+390,Individu-390,Perempuan,Dewasa,3641.47,SMA,Papua,9,Tidak Loyal,Catatan-390
+391,Individu-391,Laki-Laki,Remaja,12264.04,Sarjana,Sumatera,8,Tidak Loyal,Catatan-391
+392,Individu-392,Perempuan,Lansia,3662.83,Diploma,Papua,1,Loyal,Catatan-392
+393,Individu-393,Perempuan,Remaja,7455.32,Magister,Papua,2,Loyal,
+394,Individu-394,Perempuan,Lansia,3536.4,Doktor,Jawa,10,Tidak Loyal,
+395,Individu-395,Laki-Laki,Dewasa,17337.84,Diploma,Sulawesi,10,Tidak Loyal,
+396,Individu-396,Laki-Laki,Dewasa,9254.26,Magister,Sumatera,8,Tidak Loyal,Catatan-396
+397,Individu-397,Laki-Laki,Dewasa,9881.19,Diploma,Sulawesi,3,Tidak Loyal,Catatan-397
+398,Individu-398,Laki-Laki,Lansia,4670.78,SMA,Sumatera,7,Loyal,Catatan-398
+399,Individu-399,Perempuan,Remaja,12843.11,Sarjana,Kalimantan,8,Tidak Loyal,Catatan-399
+400,Individu-400,Perempuan,Remaja,14534.04,Diploma,Jawa,7,Tidak Loyal,Catatan-400
+401,Individu-401,Laki-Laki,Dewasa,2620.61,Sarjana,Kalimantan,4,Loyal,Catatan-401
+402,Individu-402,Perempuan,Dewasa,2686.2,Sarjana,Papua,1,Loyal,Catatan-402
+403,Individu-403,Perempuan,Remaja,17658.66,Diploma,Jawa,2,Tidak Loyal,Catatan-403
+404,Individu-404,Laki-Laki,Dewasa,2413.58,Doktor,Sumatera,6,Loyal,
+405,Individu-405,Laki-Laki,Dewasa,16175.33,Diploma,Sumatera,5,Loyal,Catatan-405
+406,Individu-406,Laki-Laki,Lansia,17421.37,Magister,Kalimantan,6,Tidak Loyal,Catatan-406
+407,Individu-407,Laki-Laki,Lansia,5479.78,SMA,Kalimantan,10,Tidak Loyal,Catatan-407
+408,Individu-408,Perempuan,Dewasa,16005.76,SMA,Kalimantan,7,Loyal,
+409,Individu-409,Perempuan,Remaja,5398.8,Diploma,Papua,1,Loyal,Catatan-409
+410,Individu-410,Perempuan,Lansia,17779.79,Sarjana,Sulawesi,10,Tidak Loyal,Catatan-410
+411,Individu-411,Perempuan,Dewasa,4735.54,SMA,Sulawesi,2,Loyal,Catatan-411
+412,Individu-412,Laki-Laki,Lansia,2595.86,SMA,Sumatera,6,Loyal,
+413,Individu-413,Laki-Laki,Lansia,6535.97,Doktor,Kalimantan,9,Tidak Loyal,
+414,Individu-414,Laki-Laki,Remaja,9492.48,Diploma,Kalimantan,7,Loyal,Catatan-414
+415,Individu-415,Perempuan,Remaja,14175.19,Sarjana,Papua,3,Loyal,
+416,Individu-416,Laki-Laki,Lansia,17266.28,Sarjana,Papua,3,Tidak Loyal,Catatan-416
+417,Individu-417,Laki-Laki,Dewasa,6413.54,Magister,Kalimantan,10,Loyal,Catatan-417
+418,Individu-418,Laki-Laki,Remaja,7922.52,Magister,Sumatera,3,Loyal,
+419,Individu-419,Perempuan,Dewasa,11936.56,SMA,Sumatera,8,Tidak Loyal,Catatan-419
+420,Individu-420,Laki-Laki,Remaja,7505.23,Magister,Jawa,4,Tidak Loyal,Catatan-420
+421,Individu-421,Laki-Laki,Dewasa,15777.39,Magister,Sumatera,8,Loyal,Catatan-421
+422,Individu-422,Laki-Laki,Lansia,8670.62,Magister,Sulawesi,1,Tidak Loyal,
+423,Individu-423,Perempuan,Dewasa,14844.54,Doktor,Papua,9,Loyal,
+424,Individu-424,Perempuan,Lansia,7084.22,Magister,Sumatera,8,Loyal,
+425,Individu-425,Laki-Laki,Remaja,3684.79,Sarjana,Kalimantan,6,Tidak Loyal,Catatan-425
+426,Individu-426,Perempuan,Dewasa,11958.84,SMA,Sumatera,4,Loyal,Catatan-426
+427,Individu-427,Perempuan,Lansia,16940.39,SMA,Papua,8,Loyal,Catatan-427
+428,Individu-428,Perempuan,Remaja,3920.63,SMA,Sumatera,4,Tidak Loyal,Catatan-428
+429,Individu-429,Laki-Laki,Dewasa,18809.71,Doktor,Jawa,7,Loyal,Catatan-429
+430,Individu-430,Laki-Laki,Remaja,19323.75,Magister,Sulawesi,8,Loyal,
+431,Individu-431,Perempuan,Lansia,3441.2,Diploma,Kalimantan,1,Tidak Loyal,Catatan-431
+432,Individu-432,Perempuan,Lansia,12337.16,Diploma,Papua,6,Tidak Loyal,
+433,Individu-433,Laki-Laki,Remaja,16659.15,Doktor,Kalimantan,5,Tidak Loyal,Catatan-433
+434,Individu-434,Laki-Laki,Remaja,19886.73,Doktor,Sulawesi,1,Loyal,Catatan-434
+435,Individu-435,Laki-Laki,Dewasa,18217.38,Doktor,Jawa,2,Loyal,Catatan-435
+436,Individu-436,Perempuan,Lansia,3485.49,Doktor,Jawa,9,Loyal,Catatan-436
+437,Individu-437,Perempuan,Dewasa,5386.68,Doktor,Papua,9,Tidak Loyal,
+438,Individu-438,Perempuan,Lansia,12796.26,SMA,Jawa,1,Loyal,Catatan-438
+439,Individu-439,Laki-Laki,Remaja,19586.11,Diploma,Papua,10,Loyal,Catatan-439
+440,Individu-440,Laki-Laki,Lansia,2578.93,SMA,Kalimantan,1,Loyal,Catatan-440
+441,Individu-441,Perempuan,Remaja,13623.5,Sarjana,Jawa,8,Tidak Loyal,Catatan-441
+442,Individu-442,Perempuan,Lansia,7350.21,Sarjana,Kalimantan,5,Loyal,Catatan-442
+443,Individu-443,Perempuan,Dewasa,15844.71,Sarjana,Papua,2,Loyal,
+444,Individu-444,Laki-Laki,Lansia,12087.5,Magister,Papua,3,Loyal,Catatan-444
+445,Individu-445,Laki-Laki,Remaja,9029.38,Doktor,Kalimantan,4,Loyal,Catatan-445
+446,Individu-446,Perempuan,Dewasa,5143.26,Diploma,Papua,3,Loyal,
+447,Individu-447,Laki-Laki,Dewasa,10932.66,Sarjana,Sumatera,3,Tidak Loyal,Catatan-447
+448,Individu-448,Laki-Laki,Lansia,19325.19,SMA,Sumatera,3,Tidak Loyal,Catatan-448
+449,Individu-449,Laki-Laki,Lansia,14720.58,SMA,Sumatera,9,Tidak Loyal,Catatan-449
+450,Individu-450,Perempuan,Lansia,13236.64,Magister,Papua,1,Loyal,Catatan-450
+451,Individu-451,Perempuan,Dewasa,11691.37,Doktor,Kalimantan,5,Tidak Loyal,
+452,Individu-452,Perempuan,Dewasa,10866.92,Doktor,Sumatera,1,Loyal,Catatan-452
+453,Individu-453,Perempuan,Dewasa,9718.64,SMA,Jawa,2,Loyal,Catatan-453
+454,Individu-454,Perempuan,Lansia,11717.92,Diploma,Sumatera,10,Tidak Loyal,
+455,Individu-455,Laki-Laki,Dewasa,13092.38,Doktor,Jawa,9,Tidak Loyal,
+456,Individu-456,Laki-Laki,Lansia,17586.58,Magister,Jawa,1,Loyal,Catatan-456
+457,Individu-457,Perempuan,Remaja,8469.22,Doktor,Sumatera,8,Tidak Loyal,Catatan-457
+458,Individu-458,Laki-Laki,Dewasa,6199.76,Sarjana,Papua,2,Tidak Loyal,Catatan-458
+459,Individu-459,Laki-Laki,Lansia,5592.62,Doktor,Sumatera,5,Tidak Loyal,Catatan-459
+460,Individu-460,Laki-Laki,Dewasa,11603.93,Diploma,Sulawesi,5,Loyal,Catatan-460
+461,Individu-461,Perempuan,Remaja,10763.41,Magister,Jawa,1,Tidak Loyal,Catatan-461
+462,Individu-462,Perempuan,Dewasa,7843.81,Sarjana,Sumatera,6,Tidak Loyal,
+463,Individu-463,Perempuan,Remaja,3552.48,SMA,Sumatera,4,Loyal,Catatan-463
+464,Individu-464,Perempuan,Lansia,7682.91,Magister,Jawa,6,Tidak Loyal,
+465,Individu-465,Laki-Laki,Dewasa,11734.62,SMA,Papua,8,Tidak Loyal,
+466,Individu-466,Laki-Laki,Remaja,16137.0,SMA,Sulawesi,10,Tidak Loyal,Catatan-466
+467,Individu-467,Perempuan,Lansia,3609.41,SMA,Sulawesi,5,Loyal,Catatan-467
+468,Individu-468,Laki-Laki,Remaja,15597.62,Diploma,Papua,8,Tidak Loyal,Catatan-468
+469,Individu-469,Perempuan,Dewasa,12731.58,Diploma,Kalimantan,7,Tidak Loyal,
+470,Individu-470,Laki-Laki,Lansia,11671.46,Doktor,Sumatera,10,Tidak Loyal,Catatan-470
+471,Individu-471,Laki-Laki,Remaja,16863.0,SMA,Jawa,8,Loyal,Catatan-471
+472,Individu-472,Perempuan,Dewasa,2530.83,Doktor,Sulawesi,7,Loyal,Catatan-472
+473,Individu-473,Laki-Laki,Remaja,9523.7,Magister,Sulawesi,4,Loyal,Catatan-473
+474,Individu-474,Perempuan,Dewasa,16143.55,Sarjana,Papua,1,Loyal,Catatan-474
+475,Individu-475,Perempuan,Remaja,10776.23,Sarjana,Kalimantan,6,Loyal,Catatan-475
+476,Individu-476,Perempuan,Lansia,5886.76,Doktor,Jawa,6,Loyal,Catatan-476
+477,Individu-477,Perempuan,Remaja,16342.12,Sarjana,Jawa,7,Loyal,Catatan-477
+478,Individu-478,Perempuan,Dewasa,6227.92,Doktor,Papua,4,Loyal,Catatan-478
+479,Individu-479,Laki-Laki,Dewasa,16287.45,Doktor,Papua,2,Loyal,
+480,Individu-480,Laki-Laki,Dewasa,12981.26,Doktor,Papua,4,Tidak Loyal,
+481,Individu-481,Laki-Laki,Dewasa,16097.25,SMA,Jawa,5,Loyal,
+482,Individu-482,Laki-Laki,Lansia,11606.83,Magister,Sumatera,3,Tidak Loyal,Catatan-482
+483,Individu-483,Perempuan,Dewasa,9417.0,Sarjana,Kalimantan,8,Loyal,Catatan-483
+484,Individu-484,Perempuan,Remaja,13763.44,SMA,Kalimantan,8,Loyal,Catatan-484
+485,Individu-485,Laki-Laki,Lansia,17005.2,Magister,Sulawesi,10,Tidak Loyal,Catatan-485
+486,Individu-486,Perempuan,Remaja,19012.98,Doktor,Papua,5,Tidak Loyal,
+487,Individu-487,Laki-Laki,Lansia,8776.71,Sarjana,Sulawesi,7,Loyal,Catatan-487
+488,Individu-488,Laki-Laki,Lansia,7622.55,Magister,Jawa,5,Loyal,
+489,Individu-489,Laki-Laki,Dewasa,13131.18,SMA,Jawa,3,Tidak Loyal,
+490,Individu-490,Laki-Laki,Remaja,9485.6,Sarjana,Kalimantan,8,Tidak Loyal,Catatan-490
+491,Individu-491,Perempuan,Remaja,3479.85,Doktor,Papua,10,Tidak Loyal,
+492,Individu-492,Laki-Laki,Lansia,4107.38,Diploma,Jawa,4,Tidak Loyal,
+493,Individu-493,Perempuan,Dewasa,14874.87,Doktor,Kalimantan,1,Loyal,Catatan-493
+494,Individu-494,Laki-Laki,Lansia,12551.44,SMA,Sulawesi,4,Loyal,Catatan-494
+495,Individu-495,Laki-Laki,Lansia,7599.96,Doktor,Sumatera,5,Tidak Loyal,Catatan-495
+496,Individu-496,Laki-Laki,Lansia,19881.14,Magister,Papua,10,Tidak Loyal,
+497,Individu-497,Laki-Laki,Dewasa,14591.76,Diploma,Sulawesi,1,Tidak Loyal,Catatan-497
+498,Individu-498,Perempuan,Dewasa,16397.88,Magister,Jawa,9,Loyal,
+499,Individu-499,Perempuan,Dewasa,7450.61,Doktor,Papua,8,Tidak Loyal,
+500,Individu-500,Perempuan,Dewasa,13436.63,Diploma,Sulawesi,4,Loyal,Catatan-500

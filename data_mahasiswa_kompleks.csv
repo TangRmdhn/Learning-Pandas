@@ -1,0 +1,101 @@
+ID,Nama,Jurusan,Angkatan,Usia,IPK,Aktif,Skor Tes,Email,Catatan
+1,Mahasiswa-1,Akuntansi,2019,25,2.78,Ya,68,user1@example.com,Catatan-1
+2,Mahasiswa-2,Sistem Informasi,2018,22,2.26,Ya,66,user2@example.com,Catatan-2
+3,Mahasiswa-3,Teknik Informatika,2022,19,3.0,Tidak,95,user3@example.com,Catatan-3
+4,Mahasiswa-4,Teknik Informatika,2023,20,2.48,Tidak,76,user4@example.com,Catatan-4
+5,Mahasiswa-5,Sistem Informasi,2021,19,3.88,Tidak,56,user5@example.com,Catatan-5
+6,Mahasiswa-6,Sistem Informasi,2021,25,3.53,Tidak,57,user6@example.com,
+7,Mahasiswa-7,Manajemen,2021,25,3.74,Tidak,61,user7@example.com,Catatan-7
+8,Mahasiswa-8,Teknik Informatika,2022,25,2.75,Tidak,65,user8@example.com,Catatan-8
+9,Mahasiswa-9,Akuntansi,2018,25,3.44,Tidak,74,user9@example.com,Catatan-9
+10,Mahasiswa-10,Sistem Informasi,2023,22,3.65,Ya,80,user10@example.com,Catatan-10
+11,Mahasiswa-11,Teknik Informatika,2023,18,2.01,Ya,71,user11@example.com,Catatan-11
+12,Mahasiswa-12,Sistem Informasi,2018,24,2.26,Ya,69,user12@example.com,
+13,Mahasiswa-13,Manajemen,2022,23,3.75,Ya,100,user13@example.com,Catatan-13
+14,Mahasiswa-14,Manajemen,2022,20,3.89,Tidak,54,user14@example.com,Catatan-14
+15,Mahasiswa-15,Sistem Informasi,2020,21,3.23,Ya,56,user15@example.com,Catatan-15
+16,Mahasiswa-16,Manajemen,2023,24,3.77,Tidak,97,user16@example.com,
+17,Mahasiswa-17,Manajemen,2020,25,2.75,Ya,99,user17@example.com,Catatan-17
+18,Mahasiswa-18,Akuntansi,2019,22,3.94,Ya,88,user18@example.com,Catatan-18
+19,Mahasiswa-19,Teknik Informatika,2020,18,3.92,Ya,57,user19@example.com,Catatan-19
+20,Mahasiswa-20,Manajemen,2022,18,2.91,Ya,100,user20@example.com,Catatan-20
+21,Mahasiswa-21,Akuntansi,2019,22,3.22,Ya,94,user21@example.com,
+22,Mahasiswa-22,Akuntansi,2018,24,2.52,Ya,95,user22@example.com,Catatan-22
+23,Mahasiswa-23,Teknik Informatika,2018,19,3.81,Ya,89,user23@example.com,
+24,Mahasiswa-24,Akuntansi,2021,24,3.27,Ya,68,user24@example.com,Catatan-24
+25,Mahasiswa-25,Manajemen,2021,25,3.76,Tidak,68,user25@example.com,Catatan-25
+26,Mahasiswa-26,Teknik Informatika,2021,24,2.08,Ya,50,user26@example.com,
+27,Mahasiswa-27,Sistem Informasi,2020,22,2.97,Ya,79,user27@example.com,Catatan-27
+28,Mahasiswa-28,Teknik Informatika,2019,22,2.94,Tidak,59,user28@example.com,Catatan-28
+29,Mahasiswa-29,Teknik Informatika,2020,18,3.52,Ya,62,user29@example.com,Catatan-29
+30,Mahasiswa-30,Akuntansi,2021,25,2.2,Tidak,64,user30@example.com,Catatan-30
+31,Mahasiswa-31,Teknik Informatika,2018,24,2.82,Ya,69,user31@example.com,Catatan-31
+32,Mahasiswa-32,Sistem Informasi,2022,21,2.99,Ya,60,user32@example.com,Catatan-32
+33,Mahasiswa-33,Teknik Informatika,2018,25,2.91,Ya,65,user33@example.com,
+34,Mahasiswa-34,Sistem Informasi,2023,20,3.53,Ya,52,user34@example.com,Catatan-34
+35,Mahasiswa-35,Teknik Informatika,2022,18,2.45,Ya,60,user35@example.com,Catatan-35
+36,Mahasiswa-36,Manajemen,2023,21,2.26,Ya,85,user36@example.com,Catatan-36
+37,Mahasiswa-37,Akuntansi,2018,20,3.9,Ya,76,user37@example.com,Catatan-37
+38,Mahasiswa-38,Teknik Informatika,2018,25,2.71,Tidak,51,user38@example.com,Catatan-38
+39,Mahasiswa-39,Akuntansi,2020,20,3.06,Ya,80,user39@example.com,Catatan-39
+40,Mahasiswa-40,Akuntansi,2021,23,2.83,Ya,57,user40@example.com,Catatan-40
+41,Mahasiswa-41,Manajemen,2022,23,3.83,Tidak,88,user41@example.com,Catatan-41
+42,Mahasiswa-42,Manajemen,2020,22,3.05,Ya,61,user42@example.com,Catatan-42
+43,Mahasiswa-43,Teknik Informatika,2022,20,3.47,Ya,62,user43@example.com,Catatan-43
+44,Mahasiswa-44,Teknik Informatika,2022,22,2.58,Tidak,100,user44@example.com,
+45,Mahasiswa-45,Sistem Informasi,2021,18,3.99,Ya,51,user45@example.com,
+46,Mahasiswa-46,Manajemen,2018,18,3.34,Ya,67,user46@example.com,Catatan-46
+47,Mahasiswa-47,Sistem Informasi,2021,23,2.42,Tidak,83,user47@example.com,Catatan-47
+48,Mahasiswa-48,Manajemen,2020,20,3.25,Ya,81,user48@example.com,Catatan-48
+49,Mahasiswa-49,Sistem Informasi,2023,25,3.16,Ya,86,user49@example.com,Catatan-49
+50,Mahasiswa-50,Sistem Informasi,2022,24,3.55,Tidak,99,user50@example.com,Catatan-50
+51,Mahasiswa-51,Teknik Informatika,2019,22,3.15,Ya,77,user51@example.com,Catatan-51
+52,Mahasiswa-52,Sistem Informasi,2023,18,2.0,Tidak,99,user52@example.com,Catatan-52
+53,Mahasiswa-53,Akuntansi,2021,23,2.94,Ya,66,user53@example.com,Catatan-53
+54,Mahasiswa-54,Manajemen,2022,24,2.69,Tidak,54,user54@example.com,
+55,Mahasiswa-55,Akuntansi,2021,25,3.13,Ya,67,user55@example.com,Catatan-55
+56,Mahasiswa-56,Sistem Informasi,2018,20,3.3,Ya,93,user56@example.com,
+57,Mahasiswa-57,Sistem Informasi,2022,22,2.63,Ya,88,user57@example.com,Catatan-57
+58,Mahasiswa-58,Manajemen,2022,21,3.96,Tidak,100,user58@example.com,Catatan-58
+59,Mahasiswa-59,Manajemen,2022,24,2.27,Ya,64,user59@example.com,Catatan-59
+60,Mahasiswa-60,Manajemen,2022,20,3.79,Ya,60,user60@example.com,Catatan-60
+61,Mahasiswa-61,Manajemen,2020,20,3.39,Tidak,51,user61@example.com,Catatan-61
+62,Mahasiswa-62,Manajemen,2019,18,3.46,Tidak,87,user62@example.com,Catatan-62
+63,Mahasiswa-63,Manajemen,2019,23,2.77,Tidak,67,user63@example.com,Catatan-63
+64,Mahasiswa-64,Manajemen,2020,25,3.5,Ya,62,user64@example.com,Catatan-64
+65,Mahasiswa-65,Teknik Informatika,2018,24,2.05,Ya,57,user65@example.com,Catatan-65
+66,Mahasiswa-66,Akuntansi,2018,24,2.69,Tidak,81,user66@example.com,Catatan-66
+67,Mahasiswa-67,Akuntansi,2022,21,2.42,Ya,86,user67@example.com,Catatan-67
+68,Mahasiswa-68,Akuntansi,2018,21,2.04,Ya,53,user68@example.com,Catatan-68
+69,Mahasiswa-69,Teknik Informatika,2021,22,2.77,Tidak,69,user69@example.com,Catatan-69
+70,Mahasiswa-70,Sistem Informasi,2023,18,2.23,Ya,92,user70@example.com,Catatan-70
+71,Mahasiswa-71,Teknik Informatika,2022,23,2.24,Ya,91,user71@example.com,
+72,Mahasiswa-72,Teknik Informatika,2023,22,2.22,Ya,85,user72@example.com,
+73,Mahasiswa-73,Manajemen,2022,19,2.4,Ya,55,user73@example.com,Catatan-73
+74,Mahasiswa-74,Teknik Informatika,2020,25,2.72,Tidak,54,user74@example.com,Catatan-74
+75,Mahasiswa-75,Akuntansi,2021,21,2.73,Ya,78,user75@example.com,Catatan-75
+76,Mahasiswa-76,Manajemen,2022,24,2.75,Tidak,58,user76@example.com,Catatan-76
+77,Mahasiswa-77,Sistem Informasi,2018,23,2.01,Ya,59,user77@example.com,Catatan-77
+78,Mahasiswa-78,Akuntansi,2020,24,2.41,Tidak,87,user78@example.com,Catatan-78
+79,Mahasiswa-79,Sistem Informasi,2022,19,2.02,Ya,53,user79@example.com,Catatan-79
+80,Mahasiswa-80,Manajemen,2023,22,3.71,Tidak,65,user80@example.com,Catatan-80
+81,Mahasiswa-81,Akuntansi,2019,25,3.92,Tidak,99,user81@example.com,
+82,Mahasiswa-82,Teknik Informatika,2021,19,3.75,Tidak,56,user82@example.com,Catatan-82
+83,Mahasiswa-83,Teknik Informatika,2021,25,2.4,Ya,94,user83@example.com,
+84,Mahasiswa-84,Manajemen,2020,23,2.37,Ya,65,user84@example.com,
+85,Mahasiswa-85,Akuntansi,2020,24,2.33,Tidak,64,user85@example.com,Catatan-85
+86,Mahasiswa-86,Sistem Informasi,2019,25,2.67,Tidak,51,user86@example.com,Catatan-86
+87,Mahasiswa-87,Akuntansi,2019,25,2.74,Tidak,53,user87@example.com,Catatan-87
+88,Mahasiswa-88,Akuntansi,2020,18,2.49,Tidak,82,user88@example.com,Catatan-88
+89,Mahasiswa-89,Akuntansi,2019,19,3.96,Ya,88,user89@example.com,
+90,Mahasiswa-90,Akuntansi,2020,24,2.4,Tidak,75,user90@example.com,Catatan-90
+91,Mahasiswa-91,Manajemen,2021,20,3.96,Ya,95,user91@example.com,Catatan-91
+92,Mahasiswa-92,Teknik Informatika,2018,18,2.05,Tidak,72,user92@example.com,Catatan-92
+93,Mahasiswa-93,Akuntansi,2021,24,3.4,Tidak,89,user93@example.com,Catatan-93
+94,Mahasiswa-94,Teknik Informatika,2020,25,3.85,Ya,79,user94@example.com,Catatan-94
+95,Mahasiswa-95,Manajemen,2023,18,2.51,Tidak,85,user95@example.com,Catatan-95
+96,Mahasiswa-96,Sistem Informasi,2019,20,3.83,Ya,50,user96@example.com,Catatan-96
+97,Mahasiswa-97,Sistem Informasi,2021,25,2.9,Ya,93,user97@example.com,
+98,Mahasiswa-98,Teknik Informatika,2021,25,2.78,Tidak,53,user98@example.com,Catatan-98
+99,Mahasiswa-99,Teknik Informatika,2020,23,2.3,Tidak,56,user99@example.com,
+100,Mahasiswa-100,Akuntansi,2020,24,3.47,Ya,99,user100@example.com,Catatan-100
