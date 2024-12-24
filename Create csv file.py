@@ -2,22 +2,30 @@ import pandas as pd
 import random
 import numpy as np
 
-# Membuat data kompleks untuk mendekati kasus machine learning
+# Membuat data super kompleks untuk latihan pandas
 np.random.seed(42)
 
+# Parameter jumlah data
+num_data = 2000
+
 # Data untuk kolom
-ids = range(1, 1001)  # 1000 data
+ids = range(1, num_data + 1)
 names = [f"Individu-{i}" for i in ids]
-genders = random.choices(["Laki-Laki", "Perempuan"], k=1000)
-ages = [random.randint(18, 60) for _ in ids]
-education_levels = random.choices(["SMA", "Diploma", "Sarjana", "Magister", "Doktor"], k=1000)
-incomes = [round(random.uniform(2000, 20000), 2) for _ in ids]
-spendings = [round(random.uniform(500, 15000), 2) for _ in ids]
-working_hours = [random.randint(20, 60) for _ in ids]
-regions = random.choices(["Urban", "Suburban", "Rural"], k=1000)
-promotions = random.choices(["Yes", "No"], k=1000)
+genders = random.choices(["Laki-Laki", "Perempuan"], k=num_data)
+ages = [random.randint(18, 65) for _ in ids]
+education_levels = random.choices(["SMA", "Diploma", "Sarjana", "Magister", "Doktor"], k=num_data)
+incomes = [round(random.uniform(1500, 30000), 2) for _ in ids]
+spendings = [round(random.uniform(300, 20000), 2) for _ in ids]
+working_hours = [random.randint(10, 80) for _ in ids]
+regions = random.choices(["Urban", "Suburban", "Rural"], k=num_data)
+promotions = random.choices(["Yes", "No"], k=num_data)
 loyalty_score = [round(random.uniform(1, 100), 2) for _ in ids]
-outcomes = ["Success" if score > 70 else "Failure" for score in loyalty_score]
+health_scores = [round(random.uniform(50, 100), 2) for _ in ids]
+department = random.choices(["Finance", "Marketing", "HR", "IT", "Operations"], k=num_data)
+experience_years = [random.randint(1, 40) for _ in ids]
+
+# Kondisi hasil berdasarkan skor loyalitas dan kesehatan
+outcomes = ["High Performer" if loyalty > 80 and health > 80 else "Average" if loyalty > 50 else "Low Performer" for loyalty, health in zip(loyalty_score, health_scores)]
 
 # Membuat DataFrame
 data = {
@@ -32,12 +40,15 @@ data = {
     "Wilayah": regions,
     "Promo": promotions,
     "Skor Loyalitas": loyalty_score,
+    "Skor Kesehatan": health_scores,
+    "Departemen": department,
+    "Pengalaman (Tahun)": experience_years,
     "Hasil": outcomes
 }
 
 df = pd.DataFrame(data)
 
 # Menyimpan data ke file CSV
-df.to_csv("data_machine_learning.csv", index=False)
+df.to_csv("data_individu_super_kompleks.csv", index=False)
 
-print("File 'data_machine_learning.csv' berhasil dibuat!")
+print("File 'data_individu_super_kompleks.csv' berhasil dibuat!")
