@@ -1,0 +1,9 @@
+ID,Nama,Usia,Kota,Pendapatan,Tanggal_Bergabung,Gender
+101,Ali,25.0,Jakarta,5000000.0,2022-01-15,Pria
+102,Budi,30.0,Bandung,7000000.0,2021-07-12,Pria
+103,Citra,,bandung,,2021-07-12,Wanita
+104,Dina,22.0,Surabaya,6000000.0,2023-03-10,Wanita
+105,Eka,19.0,Jakarta,4000000.0,,Pria
+106,,45.0,Medan,8000000.0,2020-09-05,
+103,Citra,22.0,Bandung,6000000.0,2021-07-12,Wanita
+107,Gilang,28.0,Surabaya,,2022-11-25,Pria
